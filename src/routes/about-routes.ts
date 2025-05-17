@@ -1,4 +1,4 @@
-import { getAbout } from "@/controllers/about/get-about";
+import { getAbout } from "../controllers/about/get-about";
 import { postAbout } from "../controllers/about/post-about";
 import { updateAbout } from "../controllers/about/update-about";
 
